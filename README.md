@@ -17,3 +17,8 @@ A tab layout for bottom navigation
 * tabMode  设置tab的模式，是否可滚动
 * tabTextColor 设置普通tab字体颜色
 * tabSelectedTextColor  设置选中tab字体颜色
+
+
+# Callback
+
+* OnTabSelectedListener tab选中事件监听
